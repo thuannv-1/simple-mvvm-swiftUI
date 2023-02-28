@@ -17,6 +17,7 @@
 		ECB8C49129AE4A410035AC59 /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB8C49029AE4A410035AC59 /* ItemStore.swift */; };
 		ECB8C49429AE4A810035AC59 /* ItemListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB8C49329AE4A810035AC59 /* ItemListView.swift */; };
 		ECB8C49929AE4AB80035AC59 /* ItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB8C49829AE4AB80035AC59 /* ItemViewModel.swift */; };
+		ECB8C49B29AE64C00035AC59 /* ItemViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB8C49A29AE64C00035AC59 /* ItemViewModelTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		ECB8C49029AE4A410035AC59 /* ItemStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
 		ECB8C49329AE4A810035AC59 /* ItemListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemListView.swift; sourceTree = "<group>"; };
 		ECB8C49829AE4AB80035AC59 /* ItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemViewModel.swift; sourceTree = "<group>"; };
+		ECB8C49A29AE64C00035AC59 /* ItemViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemViewModelTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 			isa = PBXGroup;
 			children = (
 				ECB8C47629AE49BB0035AC59 /* simple_mvvm_swiftuiTests.swift */,
+				ECB8C49A29AE64C00035AC59 /* ItemViewModelTest.swift */,
 			);
 			path = "simple-mvvm-swiftuiTests";
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ECB8C47729AE49BB0035AC59 /* simple_mvvm_swiftuiTests.swift in Sources */,
+				ECB8C49B29AE64C00035AC59 /* ItemViewModelTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

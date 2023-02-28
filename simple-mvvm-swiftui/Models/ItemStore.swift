@@ -9,7 +9,7 @@ import SwiftUI
 
 /**
  Model
- * Item modal define the data
+ * Item model define the data
  * ItemStore define how to fetch the datas
  */
 
